@@ -43,10 +43,12 @@
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baluthripurari&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baluthripurari&layout=compact&theme=radical" height="150" />
-</p>
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutoshg62&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshg62&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ashutoshg62&theme=tokyonight)
+
 
 ---
 
