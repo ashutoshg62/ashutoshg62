@@ -34,6 +34,11 @@
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,git,ansible,prometheus,grafana,vscode" height="40" />
 </div>
 
+## 📈 What I Do  
+- ⚡ Automate workflows & reduce manual intervention.  
+- 🔹 Build & maintain robust CI/CD pipelines.  
+- 🛡️ Design resilient, secure & scalable infrastructure.  
+- 📦 Deploy & manage microservices effectively.  
 ---
 
 ### 📊 My GitHub Stats
