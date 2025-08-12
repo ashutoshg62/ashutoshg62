@@ -54,15 +54,13 @@
 
 ### 🏆 Highlights & Achievements
 
-- 👨‍💼 **Current Role:** AWS SysOps Engineer at **Tata Consultancy Services (TCS)**, Chennai
+- 👨‍💼 **Current Role:** AWS SysOps Engineer at **Tata Consultancy Services (TCS)**, Pune
 - 📍 **Experience:** 3+ years in cloud, automation, and DevOps engineering
 - 🧾 **Certifications:**
   - AWS Certified Cloud Practitioner
-  - AWS SysOps Administrator (Udemy)
-- 🏅 **Awards:** *Employee of the Month* for outstanding contributions to AWS Infrastructure Automation
+  - Microsoft Azure Fundamentals
+- 🏅 **Awards:** *Best Performer of the Year and received client appreciation for outstanding contributions and service excellence
 
 ---
 
-<div align="center">
-  <img height="150" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvncshjqsvficcxcyx76i.gif" alt="Footer Banner" />
-</div>
+
