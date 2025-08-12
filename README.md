@@ -1,7 +1,7 @@
 ## Hi there👋, I'm Ashutosh Gaikwad 
 
 <h1 align="center">Hi there 👋, I'm Ashutosh Gaikwad</h1>
-<h3 align="center">🚀 DevOps & AWS SysOps Engineer | Passionate about Cloud, Automation & Scalability</h3>
+<h3 align="center">🚀 DevOps & Cloud Engineer | Passionate about Cloud and Microservices, Automation & Scalability</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ashutosh-gaikwad-a93007346/" target="_blank">
@@ -45,11 +45,6 @@
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutoshg62&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshg62&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ashutoshg62&theme=tokyonight)
-
-
 ---
 
 ### 🏆 Highlights & Achievements
@@ -59,7 +54,7 @@
 - 🧾 **Certifications:**
   - AWS Certified Cloud Practitioner
   - Microsoft Azure Fundamentals
-- 🏅 **Awards:** *Best Performer of the Year and received client appreciation for outstanding contributions and service excellence
+- 🏅 **Awards:** Best Performer of the Year and received client appreciation for outstanding contributions and service excellence
 
 ---
 
